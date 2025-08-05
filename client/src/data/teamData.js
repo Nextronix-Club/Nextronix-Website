@@ -1,0 +1,184 @@
+import mentor1 from "@assets/mentor1.jpg";
+import mentor2 from "@assets/mentor2.jpg";
+import leader1 from "@assets/leader-1.jpg";
+import leader2 from "@assets/leader-2.jpg";
+import pr1 from "@assets/pr-1.jpg"
+import pr3 from "@assets/pr-3.jpg"
+import pr5 from "@assets/pr-5.jpg"
+import pr7 from "@assets/pr-7.jpg"
+import pr8 from "@assets/pr-8.jpg"
+import pr9 from "@assets/pr-9.jpg"
+import tech1 from "@assets/tech-1.jpeg"
+import tech2 from "@assets/tech-2.png"
+import tech3 from "@assets/tech-3.jpg"
+import tech4 from "@assets/tech-4.jpg"
+import tech5 from "@assets/tech-5.jpg"
+import tech6 from "@assets/tech-6.jpg"
+import tech7 from "@assets/tech-7.jpg";
+
+
+export const teamData = {
+  mentors: [
+    {
+      id: "mentor-1",
+      name: "Dr. Nachiket Tapas",
+      position: "Club Incharge and Technical Advisor",
+      email: "nachikettapas@gmail.com",
+      image: mentor1,
+      linkedin: "https://www.linkedin.com/in/nachikettapas",
+      github: "https://github.com/nachikettapas",
+    },
+    {
+      id: "mentor-2",
+      name: "Dr. R.G Brajesh",
+      position: "Club Faculty Advisors",
+      email: "",
+      image: mentor2,
+      linkedin: "https://www.linkedin.com/in/r-g-brajesh-10291327",
+      github: "https://github.com/",
+    },
+  
+  ],
+  leaders: [
+    {
+      id: "leader-1",
+      name: "Manoj Kumar Sinha",
+      position: "President",
+      email: "Mksinha77756@gmail.com",
+      image: leader1,
+      linkedin: "https://www.linkedin.com/in/mksinnha",
+      github: "https://github.com/mksinha01",
+    },
+    {
+      id: "leader-2",
+      name: "Hridyesh Kumar Prajapati",
+      position: "Vice President - Design and Technical",
+      email: "hkumar0951@gmail.com",
+      image: leader2,
+      linkedin: "https://www.linkedin.com/in/hridyesh-kumar-10a52028a/",
+      github: "https://github.com/HridyeshKumar/",
+    },
+    {
+      id: "leader-3",
+      name: "Kavya Sahu",
+      position: "Vice President - P.R and Outreach",
+      email: "kavyasahu.0712@gmail.com",
+      image: pr1,
+      linkedin: "https://www.linkedin.com/in/kavya-sahu-1873a2327/",
+      github: "https://github.com/Kavyasahu077",
+    },
+  ],
+  outreach:[
+    {
+      id: "pr-1",
+      name: "Shreyansh Goswami",
+      position: "P.R Team member",
+      email: "goswami121shreyansh@gmail.com",
+      image: pr3,
+      linkedin: "https://www.linkedin.com/in/shreyansh-goswami-701039320",
+      github: "https://github.com/Shreyansh4Ai",
+    },
+    {
+      id: "pr-2",
+      name: "Shivam Tandon",
+      position: "P.R Team member",
+      email: "shivamtandonn@gmail.com",
+      image: pr5,
+      linkedin: "https://www.linkedin.com/in/shivam-tandon-898159327",
+      github: "https://github.com/tShivam25",
+    },
+    {
+      id: "pr-3",
+      name: "Dhiraj Kumar",
+      position: "P.R Team member",
+      email: "dhirajg424@gmail.com",
+      image: pr7,
+      linkedin: "https://www.linkedin.com/in/dhiraj-kumar-93a17a308",
+      github: "https://github.com/Dhirajgupta440",
+    },
+    {
+      id: "pr-4",
+      name: "Srijan Dubey",
+      position: "P.R Team member",
+      email: "srijandubey639@gmail.com",
+      image: pr8,
+      linkedin: "https://www.linkedin.com/in/srijandubey639",
+      github: "https://github.com/",
+    },
+    {
+      id: "pr-5",
+      name: "Cheeduru Gnani Sundar Raj",
+      position: "P.R Team member",
+      email: "gnanisundarraj.cheeduru@gmail.com",
+      image: pr9,
+      linkedin: "https://www.linkedin.com/in/gnani-sundar-raj-cheeduru-87182b2a8",
+      github: "https://github.com/Gnanisundarraj",
+    },
+    
+  ],
+  technical: [
+    {
+      id: "tech-1",
+      name: "Sintu Hazarika",
+      position: "Technical Team Head",
+      email: "sintuhazarika555@gmail.com",
+      image: tech1,
+      linkedin: "https://www.linkedin.com/in/sintu-hazarika-844064327",
+      github: "https://github.com/",
+    },
+    {
+      id: "tech-6",
+      name: "Aman Sonwani",
+      position: "Technical Team Member",
+      email: "exehyper999@gmail.com",
+      image: tech6,
+      linkedin: "https://www.linkedin.com/in/aman-sonwani-a95b0a326",
+      github: "https://github.com/CyberMatic-AmAn",
+    },
+    {
+      id: "tech-2",
+      name: "Rohit Kumar",
+      position: "Technical Team Member",
+      email: "rk49305381@gmail.com",
+      image: tech2,
+      linkedin: "https://www.linkedin.com/in/rohit-kumar-64b24b321",
+      github: "https://github.com/Rohitkumar2705",
+    },
+    {
+      id: "tech-3",
+      name: "Vaibhav Agrawal",
+      position: "Technical Team Member",
+      email: "vaibhavagrawal562@gmail.com",
+      image: tech3,
+      linkedin: "https://www.linkedin.com/in/vaibhav-agrawal-919722324",
+      github: "https://github.com/competitive-programmer04",
+    },
+    {
+      id: "tech-4",
+      name: "Abhishek Anand",
+      position: "Technical Team Member",
+      email: "abhishek2024anand@gmail.com",
+      image: tech4,
+      linkedin: "https://www.linkedin.com/in/abhishek-anand-a97b05326",
+      github: "https://github.com/Abhishek2k24",
+    },
+    {
+      id: "tech-5",
+      name: "Aman kumar",
+      position: "Technical Team Member",
+      email: "amankumaramankumar6969@gmail.com",
+      image: tech5,
+      linkedin: "https://www.linkedin.com/in/aman-kumar-24a968291",
+      github: "https://github.com/",
+    },
+    {
+      id: "tech-7",
+      name: "Gyan Prakash Patel",
+      position: "Technical Team Member",
+      email: "gyan100485@gmail.com",
+      image: tech7,
+      linkedin: "https://linkedin.com/in/gyan-prakash-patel-a81b07326",
+      github: "https://github.com/Marcus749",
+    },
+  ],
+};
