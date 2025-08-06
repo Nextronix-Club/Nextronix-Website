@@ -5,7 +5,6 @@ import leader2 from "@assets/leader-2.jpg";
 import pr1 from "@assets/pr-1.jpg"
 import pr3 from "@assets/pr-3.jpg"
 import pr5 from "@assets/pr-5.jpg"
-import pr7 from "@assets/pr-7.jpg"
 import pr8 from "@assets/pr-8.jpg"
 import pr9 from "@assets/pr-9.jpg"
 import tech1 from "@assets/tech-1.jpeg"
@@ -86,15 +85,6 @@ export const teamData = {
       image: pr5,
       linkedin: "https://www.linkedin.com/in/shivam-tandon-898159327",
       github: "https://github.com/tShivam25",
-    },
-    {
-      id: "pr-3",
-      name: "Dhiraj Kumar",
-      position: "P.R Team member",
-      email: "dhirajg424@gmail.com",
-      image: pr7,
-      linkedin: "https://www.linkedin.com/in/dhiraj-kumar-93a17a308",
-      github: "https://github.com/Dhirajgupta440",
     },
     {
       id: "pr-4",
